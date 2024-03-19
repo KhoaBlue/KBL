@@ -1,0 +1,14 @@
+﻿  Function.cpp
+C:\project\CS162Project\ManagementSystem\ManagementSystem\Function.cpp(44,26): error C2440: '=': cannot convert from 'Node<Course> *' to 'Course *'
+  C:\project\CS162Project\ManagementSystem\ManagementSystem\Function.cpp(44,26):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  
+C:\project\CS162Project\ManagementSystem\ManagementSystem\Function.cpp(47,25): error C2440: 'initializing': cannot convert from 'Course *' to 'Node<Course> *'
+  C:\project\CS162Project\ManagementSystem\ManagementSystem\Function.cpp(47,25):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  
+C:\project\CS162Project\ManagementSystem\ManagementSystem\Function.cpp(56,2): error C2447: '{': missing function header (old-style formal list?)
+C:\project\CS162Project\ManagementSystem\ManagementSystem\Function.cpp(74,1): error C2059: syntax error: '}'
+C:\project\CS162Project\ManagementSystem\ManagementSystem\Function.cpp(74,1): error C2143: syntax error: missing ';' before '}'
+  ManagementSystem.cpp
+  Generating Code...
